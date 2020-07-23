@@ -26,8 +26,4 @@ I am an Sr Cloud Engineer with **[Coda Global](https://coda.global/)** currently
     <a href="mailto:kscotteppler@gmail.com" alt="Mail"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/140586eea371d31fc4ce635ed3ede770916b1226/img/mail.svg"></a>
     <a href="https://kseppler.com" alt="Website"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/d5ef488041c4bf3020c0aac79dd1f37ef8ce9b76/img/website.svg"></a>
   </p>
-  
-  <p align="center">
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=audioboxer217.visitor-badge">
-  </p>
 </p>
