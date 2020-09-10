@@ -1,6 +1,6 @@
 # Hi there, I'm Scott! 👋
 
-I am an Sr Cloud Engineer with **[Coda, A Presidio Company](https://coda.global/)** currently focused on projects with Kubernetes, Terraform, or Ansible.
+I am an Sr Cloud Engineer with **[Coda, A Presidio Cloud Company](https://coda.global/)** currently focused on projects with Kubernetes, Terraform, or Ansible.
 
 ## Certifications
   [![CKA](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/cka.png)](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
