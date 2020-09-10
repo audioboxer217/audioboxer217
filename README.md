@@ -13,7 +13,7 @@ I am an Sr Cloud Engineer with **[Coda Global](https://coda.global/)** currently
 ## Public GitHub Stats
   
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=audioboxer217&show_icons=true)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=audioboxer217&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
   <i>Connect with me.</i>
   
