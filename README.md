@@ -6,6 +6,7 @@ I am an Sr Cloud Engineer with **[Coda, A Presidio Cloud Company](https://coda.g
   [![CKA](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/cka.png)](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
   [![CKAD](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/ckad.png)](https://www.youracclaim.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
   [![Terraform Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/tf.png)](https://www.youracclaim.com/badges/55293484-eda3-4c5c-87f7-c4d86e455b69/public_url)
+  [![Vault Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/vault.png)](https://www.youracclaim.com/badges/328c4608-7b47-4648-88e4-2deb3f6fa54a/public_url)
   [![AWS Solutions Architect Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_saa.png)](https://www.youracclaim.com/badges/d5c957f8-b9ec-4714-b9a6-ff32938eee87/public_url)
   [![AWS Developer Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_da.png)](https://www.youracclaim.com/badges/efcef512-45ba-4d79-8f2f-136b97201c9a/public_url")
   [![AWS Cloud Practioner](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_cp.png)](https://www.youracclaim.com/badges/4b05d6c0-2bc5-44e8-a865-2b1a44efc1f7/public_url)
