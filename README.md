@@ -10,6 +10,8 @@ I am an Sr Cloud Engineer with **[Coda, A Presidio Cloud Company](https://coda.g
   [![AWS Solutions Architect Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_saa.png)](https://www.youracclaim.com/badges/d5c957f8-b9ec-4714-b9a6-ff32938eee87/public_url)
   [![AWS Developer Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_da.png)](https://www.youracclaim.com/badges/efcef512-45ba-4d79-8f2f-136b97201c9a/public_url")
   [![AWS Cloud Practioner](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/aws_cp.png)](https://www.youracclaim.com/badges/4b05d6c0-2bc5-44e8-a865-2b1a44efc1f7/public_url)
+  [![VMware Certified Master Specialist - Cloud Native 2021](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/vmw_ms_cloud-native.png)](https://www.youracclaim.com/badges/92edb696-b4ab-425d-b82d-cac4b370c295/public_url)
+
 
 ## Public GitHub Stats
   
