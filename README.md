@@ -5,6 +5,7 @@ I am an Sr Cloud Engineer with **[Coda, A Presidio Cloud Company](https://coda.g
 ## Certifications
   [![CKA](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/cka.png)](https://www.youracclaim.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
   [![CKAD](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/ckad.png)](https://www.youracclaim.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
+  [![Terraform CHIP](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/tf-chip.png)](https://www.credly.com/badges/97fc3c3d-1518-4a2a-9489-946e7ef616ac/public_url)
   [![Terraform Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/tf.png)](https://www.youracclaim.com/badges/55293484-eda3-4c5c-87f7-c4d86e455b69/public_url)
   [![Vault Associate](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/vault.png)](https://www.youracclaim.com/badges/328c4608-7b47-4648-88e4-2deb3f6fa54a/public_url)
   [![Vault CHIP](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/vault-chip.png)](https://www.youracclaim.com/badges/e1b75daf-9730-4857-a938-a34e38454c17/public_url)
