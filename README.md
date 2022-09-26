@@ -1,6 +1,6 @@
 # Hi there, I'm Scott! 👋
 
-I am an Engineering Manager with **[Coda, A Presidio Cloud Company](https://coda.global/)** currently focused on projects with Kubernetes, Terraform, or Ansible.
+I am an Engineering Manager with **[Presidio](https://presidio.com/)** currently focused on projects with Kubernetes, Terraform, or Ansible.
 
 ## Certifications
   [![CKA](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/cka.png)](https://www.credly.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
@@ -18,13 +18,24 @@ I am an Engineering Manager with **[Coda, A Presidio Cloud Company](https://coda
 ## Public GitHub Stats
   
 ![Scott's github stats](https://github-readme-stats.vercel.app/api?username=audioboxer217&show_icons=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=audioboxer217&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <i>Connect with me.</i>
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/scotteppler/" alt="Linkedin"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/140586eea371d31fc4ce635ed3ede770916b1226/img/linkedin.svg"></a>
-    <a href="mailto:kscotteppler@gmail.com" alt="Mail"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/140586eea371d31fc4ce635ed3ede770916b1226/img/mail.svg"></a>
-    <a href="https://kseppler.com" alt="Website"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/d5ef488041c4bf3020c0aac79dd1f37ef8ce9b76/img/website.svg"></a>
-  </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=audioboxer217&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Languages and Tools:
+<p align="left">
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://ansible.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
+  <a href="https://terraform.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://packer.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
+
+## Connect with me.
+<a href="https://www.linkedin.com/in/scotteppler/" alt="Linkedin"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/140586eea371d31fc4ce635ed3ede770916b1226/img/linkedin.svg"></a>
+<a href="mailto:kscotteppler@gmail.com" alt="Mail"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/140586eea371d31fc4ce635ed3ede770916b1226/img/mail.svg"></a>
+<a href="https://kseppler.com" alt="Website"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/d5ef488041c4bf3020c0aac79dd1f37ef8ce9b76/img/website.svg"></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=audioboxer217&label=Profile%20views&color=0e75b6&style=flat" alt="audioboxer217" /> </p>
