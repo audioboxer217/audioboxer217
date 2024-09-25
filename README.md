@@ -39,3 +39,5 @@ I am an Engineering Manager with **[Presidio](https://presidio.com/)** currently
 <a href="https://kseppler.com" alt="Website"><img src="https://raw.githubusercontent.com/audioboxer217/audioboxer217/d5ef488041c4bf3020c0aac79dd1f37ef8ce9b76/img/website.svg"></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=audioboxer217&label=Profile%20views&color=0e75b6&style=flat" alt="audioboxer217" /> </p>
+
+[![An image of @audioboxer217's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/audioboxer217)](https://holopin.io/@audioboxer217)
