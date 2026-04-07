@@ -3,6 +3,7 @@
 I am an Engineering Manager with **[Presidio](https://presidio.com/)** currently focused on projects with Kubernetes, Terraform, or Ansible.
 
 ## Certifications
+  [<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg" width="90">](https://learn.microsoft.com/api/credentials/share/en-us/ScottEppler-0800/98C227C6F8FD5C0F?sharingId=5710A8FA5AE14559)
   [![CKA](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/cka.png)](https://www.credly.com/badges/922356d4-fb6b-42dc-b475-dad0c0532dd3/public_url)
   [![CKAD](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/ckad.png)](https://www.credly.com/badges/9df4e58d-b065-4b0f-8702-155310058caa/public_url)
   [![Terraform CHIP](https://raw.githubusercontent.com/audioboxer217/audioboxer217/master/certs/tf-chip.png)](https://www.credly.com/badges/97fc3c3d-1518-4a2a-9489-946e7ef616ac/public_url)
